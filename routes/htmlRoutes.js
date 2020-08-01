@@ -2,12 +2,11 @@
 const path = require('path');
 const router = require('express').Router();
 
-
+// This has to be on the top than the other routers
 router.get('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/notes.html'));
 });
 
-// Get request
 router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../public/index.html'));
 });
