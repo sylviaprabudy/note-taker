@@ -22,15 +22,15 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
-![](assets/img/NoteTaker_LP.png)
-![](assets/img/NoteTaker_WriteNotes.png)
-![](assets/img/NoteTaker_SavedNotes.png)
+![](public/assets/img/NoteTaker_LP.png)
+![](public/assets/img/NoteTaker_WriteNotes.png)
+![](public/assets/img/NoteTaker_SavedNotes.png)
 
 
 ## Technologies Use
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/inquiexpressrer">Express.js</a></p>
+<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
 <p><a href="https://www.npmjs.com/package/uuid">uuid</a></p>
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
