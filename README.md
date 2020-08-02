@@ -16,12 +16,15 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Usage
-
+- Application will allow user to be able to add note's title and description
+- Application will allow user to be able to save the notes and won't lose them even they refresh the page
+- Application will allow user to be delete notes
 
 
 ## Screenshots
-![](assets/img/)
-
+![](assets/img/NoteTaker_LP.png)
+![](assets/img/NoteTaker_WriteNotes.png)
+![](assets/img/NoteTaker_SavedNotes.png)
 
 
 ## Technologies Use
@@ -29,8 +32,9 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://www.npmjs.com/package/inquiexpressrer">Express.js</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
-<p><a href="https://www.npmjs.com/package/jest">Jest</a></p>
+<p><a href="https://www.npmjs.com/package/uuid">uuid</a></p>
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
+<p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
 ## Contributor:
